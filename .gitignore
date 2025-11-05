@@ -12,3 +12,8 @@ node_modules/
 
 .env
 *.env
+
+# Arquivos sensíveis
+.env
+*.env
+.env.local
