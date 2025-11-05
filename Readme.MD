@@ -11,7 +11,7 @@
 
 ## Sobre o Projeto
 
-Este repositório contém o **projeto final** desenvolvido para a disciplina de **Inteligência Artificial** da **FATEC Arthu de Azevedo**.
+Este repositório contém o **projeto final** desenvolvido para a disciplina de **Inteligência Artificial** da **FATEC Arthur de Azevedo**.
 
 O objetivo do projeto é [insira aqui o objetivo principal do projeto, por exemplo:  
 *"Implementar um modelo de machine learning para classificação de imagens de dígitos manuscritos utilizando redes neurais convolucionais (CNN)."*]
