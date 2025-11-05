@@ -4,10 +4,8 @@
 ![Fatec Logo](https://www.fatec.edu.br/wp-content/uploads/2020/07/logo-fatec.png)
 
 > **Projeto Final da Disciplina de Inteligência Artificial**  
-> Curso: [Insira seu curso aqui]  
-> Professor: [Nome do professor]  
 > Aluno: Gabriel Jordão M.  
-> Semestre: [Insira o semestre/ano]
+> Semestre: 6 Semestre
 
 ---
 
